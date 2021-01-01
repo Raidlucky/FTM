@@ -36,12 +36,6 @@ p {
     margin: right;
     width: 40%;
 }
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-    background-color: #333;
-}
 .nav_links {
     list-style: none;
     outline: none;
@@ -55,11 +49,12 @@ p {
     transition: all 0.3s ease 0s;
 }
 .nav_links li a:hover {
-    color: #1aabf3;
+    color:  #5983fc;
 }
 button {
     padding: 9px 25px;
-    background-color: rgba(0,136,169,1);
+    background-color: #5983fc;
+    color: white;
     border: none;
     border-radius: 50px;
     cursor: pointer;
@@ -67,5 +62,5 @@ button {
     outline: none;
 }
 button:hover {
-    background-color: rgba(0,136,169,0.8);
+    background-color: #333;
 }
