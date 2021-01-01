@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 body {
     background-color: #293556;
-    font: "Nunito";
+    font-family: "Nunito";
 }
 h1 {
 font-size: 35px;
@@ -19,7 +19,11 @@ p {
     color:white;
     border-radius: 6px;
     padding: 10px;
-    margin: auto;
+    margin-left: auto;
+    display: block;
+    margin-right: auto;
+    outline: none;
+    text-decoration: none;
 }
 .software-example {
     margin-top: 10px;
