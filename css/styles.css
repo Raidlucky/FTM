@@ -13,6 +13,7 @@ p {
     font-size: 25px;
     color: white;
     text-align: center;
+    line-height: 200px;
 }
 .d-button {
     background-color: #5983fc;
@@ -26,6 +27,7 @@ p {
     text-decoration: none;
     width: 75px;
     height: 20px;
+    margin-top: 10px;
 }
 .software-example {
     margin-top: 10px;
