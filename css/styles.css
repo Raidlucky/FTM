@@ -103,4 +103,9 @@ p {
         border-radius: 6px;
         width: 340px;
         margin: auto;
+        margin-top: 10px;
+    }
+    .div-2 {
+        display: inline-block;
+        margin-top: 30px;
     }
