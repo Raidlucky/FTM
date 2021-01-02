@@ -5,13 +5,13 @@ body {
 }
 h1 {
 font-size: 35px;
-color: #3e60c1;
+color: white;
 text-align: center;
 }
 p {
     margin-top: 10px;
     font-size: 25px;
-    color: #3e60c1;
+    color: white;
     text-align: center;
 }
 .d-button {
@@ -39,7 +39,7 @@ p {
     li, a, button {
         font-family: "Nunito", sans-serif;
         font-weight: 400;
-        font-size: 15px;
+        font-size: 17px;
         color: white;
         text-decoration: none;
         outline: none;
@@ -94,4 +94,9 @@ p {
         margin-left: auto;
         margin-right: auto;
         display: block;
+    }
+    .showcase {
+        border: 2px #2e4583;
+        border-radius: 6px;
+        width: 80px;
     }
