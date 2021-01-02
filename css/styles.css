@@ -83,7 +83,9 @@ p {
         background-color: #333;
     }
     header {
-        color: #151A2E;
+        background-color: #151A2E;
+        height: 4px;
+        border-radius: 15px;
     }
     .pfp {
         border-radius: 50%;
