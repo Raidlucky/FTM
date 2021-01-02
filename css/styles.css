@@ -96,7 +96,9 @@ p {
         display: block;
     }
     .showcase {
+        background-color: #2e4583;
         border: 2px #2e4583;
         border-radius: 6px;
-        width: 80px;
+        width: 340px;
+        margin: auto;
     }
