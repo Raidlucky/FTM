@@ -13,7 +13,7 @@ p {
     font-size: 25px;
     color: white;
     text-align: center;
-    line-height: 200px;
+    line-height: 200%;
 }
 .d-button {
     background-color: #5983fc;
