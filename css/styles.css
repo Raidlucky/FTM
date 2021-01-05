@@ -9,11 +9,15 @@ color: white;
 text-align: center;
 }
 p {
-    margin-top: 10px;
+    margin-top: 90px;
     font-size: 25px;
     color: white;
     text-align: center;
     line-height: 200%;
+    float: left;
+    border: none;
+    border-radius: 6px;
+    background-color: #23272A;
 }
 .d-button {
     background-color: #5983fc;
@@ -27,7 +31,7 @@ p {
     text-decoration: none;
     width: 75px;
     height: 20px;
-    margin-top: 10px;
+    margin-top: 560px;
 }
 .software-example {
     margin-top: 10px;
@@ -37,6 +41,7 @@ p {
     margin-left: auto;
     margin: right;
     width: 40%;
+    float: right;
 }
     li, a, button {
         font-family: "Nunito", sans-serif;
@@ -85,7 +90,7 @@ p {
         background-color: #333;
     }
     header {
-        background-color: #151A2E;
+        background-color: #23272A;
         height: 4px;
         border-radius: 15px;
     }
